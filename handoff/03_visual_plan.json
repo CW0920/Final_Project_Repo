@@ -1,0 +1,155 @@
+{
+  "visual_style_profile": "現代、科技感、明亮、略帶活力。使用藍色、白色、灰色為基礎色調，輔以綠色或橘色作為點綴，營造專業而創新的氛圍。動態文字效果與流暢的轉場。",
+  "shot_list": [
+    {
+      "scene_id": 1,
+      "shot_id": "1.1",
+      "description": "快速疊加的動態圖形，例如：數據流、二進制代碼、城市夜景縮影。",
+      "camera_angle": "N/A (Motion Graphics)",
+      "shot_type": "Graphic Animation",
+      "action_suggestion": "快速閃現，最後聚焦於 'NUTN CSIE' Logo 的形成。",
+      "visual_elements": ["抽象數據流", "程式碼片段", "國立臺南大學 Logo"]
+    },
+    {
+      "scene_id": 2,
+      "shot_id": "2.1",
+      "description": "航拍或中景鏡頭，展示國立臺南大學校園全貌。",
+      "camera_angle": "Aerial/Medium Shot",
+      "shot_type": "Establishing Shot",
+      "action_suggestion": "畫面緩慢推進或平移，展現學術氛圍。",
+      "visual_elements": ["校園建築", "綠化環境", "系名文字疊加"]
+    },
+    {
+      "scene_id": 2,
+      "shot_id": "2.2",
+      "description": "資訊工程學系大樓外觀特寫。",
+      "camera_angle": "Medium Shot",
+      "shot_type": "Exterior Shot",
+      "action_suggestion": "搭配系名全稱和簡稱的動畫文字。",
+      "visual_elements": ["系所建築", "系所招牌", "系所全名與簡稱文字"]
+    },
+    {
+      "scene_id": 3,
+      "shot_id": "3.1",
+      "description": "學生在現代化教室或實驗室中學習的場景。",
+      "camera_angle": "Medium Shot / Over-the-shoulder",
+      "shot_type": "B-roll",
+      "action_suggestion": "學生專注於電腦屏幕、進行討論。",
+      "visual_elements": ["課堂環境", "學生", "電腦屏幕"]
+    },
+    {
+      "scene_id": 3,
+      "shot_id": "3.2",
+      "description": "UI 介面示意圖：程式碼編輯器、AI 模型訓練介面、數據分析圖表。",
+      "camera_angle": "N/A (Screen Recording/Mockup)",
+      "shot_type": "Screen Recording/Mockup",
+      "action_suggestion": "展示各種程式碼、AI 算法、數據流動的示意動畫。",
+      "visual_elements": ["程式碼編輯器模擬", "AI 介面示意", "數據圖表動畫"]
+    },
+    {
+      "scene_id": 3,
+      "shot_id": "3.3",
+      "description": "物聯網設備（如感測器、控制器）的近景聚焦。",
+      "camera_angle": "Close-up",
+      "shot_type": "Product Shot",
+      "action_suggestion": "展示設備的運作或連接狀態，強調實踐性。",
+      "visual_elements": ["物聯網設備", "電路板", "連接示意"]
+    },
+    {
+      "scene_id": 4,
+      "shot_id": "4.1",
+      "description": "學生團隊圍繞著白板或電腦進行熱烈討論的場景。",
+      "camera_angle": "Medium Shot",
+      "shot_type": "Group Interaction",
+      "action_suggestion": "捕捉學生們積極思考、交流的表情和動作。",
+      "visual_elements": ["學生團隊", "白板", "筆記型電腦", "專案圖"]
+    },
+    {
+      "scene_id": 4,
+      "shot_id": "4.2",
+      "description": "學生專題成果的示意性Demo畫面 (Mockup)。",
+      "camera_angle": "Close-up / Screen Recording",
+      "shot_type": "Demo Shot",
+      "action_suggestion": "展示一個簡潔、清晰的專案成果介面或運作畫面（可設計成示意圖）。",
+      "visual_elements": ["專題 App/軟體介面示意", "硬體專案示意"]
+    },
+    {
+      "scene_id": 5,
+      "shot_id": "5.1",
+      "description": "教授與學生在課堂上或辦公室小組討論。",
+      "camera_angle": "Medium Shot",
+      "shot_type": "B-roll",
+      "action_suggestion": "展現亦師亦友的互動氛圍。",
+      "visual_elements": ["教授", "學生", "課堂", "辦公室"]
+    },
+    {
+      "scene_id": 5,
+      "shot_id": "5.2",
+      "description": "學生在校園內進行活動，如：圖書館閱讀、走廊交流。",
+      "camera_angle": "Wider Shot",
+      "shot_type": "Campus Life B-roll",
+      "action_suggestion": "捕捉正面、有活力的校園生活片段。",
+      "visual_elements": ["校園", "學生", "圖書館", "活動場所"]
+    },
+    {
+      "scene_id": 6,
+      "shot_id": "6.1",
+      "description": "最終畫面：顯示國立臺南大學資訊工程學系的 Logo、校徽。",
+      "camera_angle": "N/A",
+      "shot_type": "Branding End Screen",
+      "action_suggestion": "Logo 靜態展示或淡入淡出，搭配標語。",
+      "visual_elements": ["NUTN CSIE Logo", "校徽", "影片標題", "官方網站 URL", "QR Code (示意)"]
+    }
+  ],
+  "asset_list": [
+    {
+      "asset_id": "A001",
+      "type": "graphic",
+      "description": "NUTN CSIE Logo",
+      "source_suggestion": "官方網站下載或自行製作 (需確保符合系所規範)",
+      "license_required": "Official / Self-Made",
+      "usage_notes": "用於開場和片尾。"
+    },
+    {
+      "asset_id": "A002",
+      "type": "footage",
+      "description": "國立臺南大學校園景觀",
+      "source_suggestion": "自行拍攝 (提供校內同學協助) 或尋找校方提供的官方宣傳素材；若無，可使用免授權的校園 B-roll 替代。",
+      "license_required": "Official / Self-Shot / Royalty-Free Stock Footage",
+      "usage_notes": "用於介紹系所環境。"
+    },
+    {
+      "asset_id": "A003",
+      "type": "mockup",
+      "description": "程式碼編輯器、AI 介面、數據圖表示意",
+      "source_suggestion": "自行設計或使用線上免費示意圖工具生成。",
+      "license_required": "Self-Made / Free Mockup Tools",
+      "usage_notes": "用於展示學習內容，需具備科技感。"
+    },
+    {
+      "asset_id": "A004",
+      "type": "footage/graphic",
+      "description": "科技感背景、數據流動、抽象圖形",
+      "source_suggestion": "Pexels, Pixabay, Unsplash (搜尋 'tech background', 'abstract data')",
+      "license_required": "Creative Commons Zero (CC0) 或其他免費授權",
+      "usage_notes": "用於開場、場景過場或背景。"
+    },
+    {
+      "asset_id": "A005",
+      "type": "audio",
+      "description": "背景音樂",
+      "source_suggestion": "YouTube Audio Library, Bensound.com 等免費音樂庫",
+      "license_required": "Royalty-Free License",
+      "usage_notes": "輕快、正面、具啟發性的曲風。"
+    },
+    {
+      "asset_id": "A006",
+      "type": "graphic",
+      "description": "官方網站 URL 與 QR Code (示意)",
+      "source_suggestion": "自行設計。",
+      "license_required": "Self-Made",
+      "usage_notes": "用於片尾 Call-to-Action。"
+    }
+  ],
+  "creation_timestamp": "2026-06-18T11:55:00Z"
+}

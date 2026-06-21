@@ -1,1 +1,61 @@
-
+{
+  "project_title": "NUTN_CSIE_60s_Promo",
+  "video_title_suggestion": "國立臺南大學資訊工程學系 60 秒形象宣傳影片",
+  "target_audience": ["高中生", "大學新生", "家長"],
+  "core_message": "連結知識、激發創新、塑造未來：探索國立臺南大學資訊工程系的無限可能。",
+  "video_length_target_seconds": 60,
+  "video_length_tolerance_seconds": 5,
+  "scene_plan": [
+    {
+      "scene_id": 1,
+      "time_range_suggestion": "0-5",
+      "purpose": "開場 Hook：快速吸引觀眾注意力，引出主題",
+      "visual_plan_guideline": "快速剪輯畫面：城市景象、校園一角、高速運轉的數據流、大學 Logo 快速閃現。",
+      "narration_guideline": "一句簡潔有力的開場語，例如：「你想成為數字世界的魔法師嗎？」",
+      "subtitle_guideline": "快速出現影片標題與系名。"
+    },
+    {
+      "scene_id": 2,
+      "time_range_suggestion": "5-15",
+      "purpose": "主題介紹：點明影片主角：國立臺南大學資訊工程學系",
+      "visual_plan_guideline": "展示系所外觀、招牌、或代表性的建築；可搭配簡潔的系所名稱文字動畫。",
+      "narration_guideline": "介紹影片主題：『歡迎來到國立臺南大學資訊工程學系，一個充滿活力與創新的學習殿堂。』",
+      "subtitle_guideline": "顯示系所全名與簡稱。"
+    },
+    {
+      "scene_id": 3,
+      "time_range_suggestion": "15-35",
+      "purpose": "學習特色：展現資工系的課程內容與學習環境",
+      "visual_plan_guideline": " montages: 學生在實驗室學習、程式碼畫面、AI 圖像生成介面示意、物聯網設備操作、數據分析圖表。",
+      "narration_guideline": "『在這裡，你將深入程式設計、人工智慧、大數據與系統開發，在理論與實踐中培養解決問題的能力。』",
+      "subtitle_guideline": "關鍵詞：程式設計、AI、大數據、實作、實驗室。"
+    },
+    {
+      "scene_id": 4,
+      "time_range_suggestion": "35-50",
+      "purpose": "成果與發展：展示學生專題、團隊合作與未來展望",
+      "visual_plan_guideline": "學生團隊討論、專題成果展示 (mock demo)、競賽畫面（示意）、與講座 / 教授互動場景。",
+      "narration_guideline": "『透過專題製作與跨領域合作，我們鼓勵你的創新思維，連結產業趨勢，為未來職涯做好準備。』",
+      "subtitle_guideline": "關鍵詞：專題製作、團隊合作、創新、未來職涯。"
+    },
+    {
+      "scene_id": 5,
+      "time_range_suggestion": "50-58",
+      "purpose": "學習氛圍與價值：展現師生互動、校園生活與系的正面形象",
+      "visual_plan_guideline": "師生交流、活力校園、學生社群活動（示意）、或正面向上的人物剪影。",
+      "narration_guideline": "『加入我們，一起探索科技的奧秘，與優秀的師長同學共同成長。』",
+      "subtitle_guideline": "『你的未來，從這裡開始。』"
+    },
+    {
+      "scene_id": 6,
+      "time_range_suggestion": "58-65",
+      "purpose": "結尾與 Call-to-Action：總結與引導",
+      "visual_plan_guideline": "系所 Logo、校徽、官方網站連結、QR Code (示意)、簡潔的系所名稱與標語（例如：『國立臺南大學資訊工程學系 - 創新驅動未來』）。",
+      "narration_guideline": "『國立臺南大學資訊工程學系，等你來發掘無限可能！』",
+      "subtitle_guideline": "系所網址、招生資訊入口（示意）。"
+    }
+  ],
+  "asset_policy": "self-made or openly licensed materials only; avoid copyrighted logos/music without explicit permission.",
+  "review_criteria": ["length", "theme_fit", "truthfulness", "copyright", "portrait_rights", "agent_handoff_clarity", "zero_paid_token_path_viability"],
+  "creation_timestamp": "2026-06-18T11:50:00Z"
+}

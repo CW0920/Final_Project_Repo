@@ -41,7 +41,6 @@ Final_Project_Repo/
 │   └── single_agent_baseline.md   # 單一 Prompt 直接產出的 JSON 對照組與深度評估
 └── outputs/                       # 最終多媒體成果與授權目錄
     ├── final_video.mp4            # 最終 65 秒 1080p 形象宣傳影片成果
-    ├── subtitles.srt              # 影片對應之字幕檔案
     └── asset_sources.md           # 完整素材來源與授權說明（包含 Airvoz 與 Pexels 引用）
 
 3. 多代理人工作流程 (Multi-Agent Workflow) 摘要
